@@ -26,4 +26,7 @@ Using SQL, this project aims to answer key financial questions, including:
 7. The most common debt indicators across all countries
 ![Query](images/Q7.png)
 ![Output](images/Q7A.png)
+8. The most common debt type
+![Query](images/Q8.png)
+![Query](images/Q8A.png)
 
